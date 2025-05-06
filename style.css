@@ -80,7 +80,6 @@ h2 {
 .redes img {
   width: 28px;
   height: 28px;
-  filter: invert(1); /* ícones brancos */
   transition: transform 0.2s ease;
 }
 
